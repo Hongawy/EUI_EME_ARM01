@@ -1,0 +1,1 @@
+"./Calc.obj" "./DIO.obj" "./keypad.obj" "./lcd.obj" "./main.obj" "./test.obj" "./tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd" -llibc.a 
